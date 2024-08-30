@@ -1,4 +1,4 @@
-<h2 align="left">OI 👋! Meu nome é Jefferson De Souza, e sou Estudante de Ciências da Computação</h2>
+<h2 align="left">OI 👋! Meu nome é Jefferson De Souza, Bem vindo :)</h2>
 
 ###
 
